@@ -1,11 +1,19 @@
-# Assistente virtual 
+# Teste para Dev Front-end
 
 # Introdução
 
-A proposta do projeto de desenvolver um assistente virtual em python<br>
-        - Recursos Humanos: Victoria<br>
-        - Ferramentas: Noteebok, internet, livros e vídeos.<br>
-        - Softwares: IDE (Visual Code Studio)<br>
+A proposta do projeto de desenvolver as páginas do layout com as seguintes funcionalidade<br>
+        - Rotatividade automática no carrossel de banners<br>
+        - Exibir página de detalhes ao clicar no botão Saiba Mais de um card<br>
+        - (Bônus) Página Fontes: filtrar cards ao clicar em uma categoria da barra cinza<br>
+        - (Bônus) Página Apps: ordenar cards ao selecionar opção no select<br>
+        
+# Orientações:
+        - Implemente layout responsivo para os breakpoints 480px e 1200px<br>
+        - Use Sass como pré-processador CSS<br>
+        - Use um framework JS (bônus se usar Vue)<br>
+        - (Bônus) Use o padrão BEM CSS<br>
+
 
 # Baixando o projeto
 
