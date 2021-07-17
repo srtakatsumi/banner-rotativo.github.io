@@ -16,6 +16,7 @@ A proposta do projeto de desenvolver um assistente virtual em python<br>
 # Visualizando o site
 
 - <a href="https://srtakatsumi.github.io/bannerrotativo.github.io/"> Clique aqui para ver como site ficou</a>
+- Ou cole o link <a href="https://srtakatsumi.github.io/bannerrotativo.github.io/">https://srtakatsumi.github.io/bannerrotativo.github.io/</a> em uma aba da internet
 
 # Objetivo 
 Fazer o assistente responder perguntas simples como perguntar <br>
